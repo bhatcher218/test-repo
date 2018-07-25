@@ -1,2 +1,4 @@
 # test-repo
-Hello world!
+Hello cruel world!
+
+Git is cool.
